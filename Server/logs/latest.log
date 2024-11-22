@@ -1,0 +1,87 @@
+[10:32:23] [Server thread/INFO]: Starting minecraft server version 1.12
+[10:32:23] [Server thread/INFO]: Loading properties
+[10:32:23] [Server thread/INFO]: Default game type: CREATIVE
+[10:32:23] [Server thread/INFO]: Generating keypair
+[10:32:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:32:23] [Server thread/INFO]: Using default channel type
+[10:32:25] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[10:32:25] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[10:32:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:32:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:32:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:32:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:32:25] [Server thread/INFO]: Preparing level "world"
+[10:32:25] [Server thread/INFO]: Preparing start region for level 0 (Seed: 85224557602422186)
+[10:32:26] [Server thread/INFO]: Preparing spawn area: 1%
+[10:32:27] [Server thread/INFO]: Preparing spawn area: 43%
+[10:32:28] [Server thread/INFO]: Preparing spawn area: 88%
+[10:32:28] [Server thread/INFO]: Preparing start region for level 1 (Seed: 85224557602422186)
+[10:32:29] [Server thread/INFO]: Preparing spawn area: 49%
+[10:32:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: 85224557602422186)
+[10:32:31] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[10:32:31] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[10:32:31] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[10:32:31] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[10:32:31] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[10:32:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:32:31] [Server thread/INFO]: Done (6,295s)! For help, type "help" or "?"
+[10:41:02] [Server thread/INFO]: Josua[/127.0.0.1:52551] logged in with entity id 16 at ([world]252.92890281966814, 67.0, 266.34205640460215)
+[10:41:45] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[10:41:45] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:52567.
+[10:41:45] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[10:41:55] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:05] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:15] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:25] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:35] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:45] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:42:55] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:06] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:16] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:26] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:36] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:46] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:43:56] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:06] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:16] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:26] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:37] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:47] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:44:57] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:07] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:17] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:27] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:37] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:47] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:45:57] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:08] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:18] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:28] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:38] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:48] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:46:58] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:08] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:18] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:29] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:39] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:49] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:47:59] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:09] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:19] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:29] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:39] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:49] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:48:59] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:49:09] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:49:20] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:49:30] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:49:40] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:49:50] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:00] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:10] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:20] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:30] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:40] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:50:50] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:51:00] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m
+[10:51:10] [Server thread/INFO]: ALGO CADA CIERTO TIEMPO[m

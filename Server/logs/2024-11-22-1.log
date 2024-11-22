@@ -1,0 +1,27 @@
+[10:21:19] [Server thread/INFO]: Loading properties
+[10:21:19] [Server thread/INFO]: Default game type: CREATIVE
+[10:21:19] [Server thread/INFO]: Generating keypair
+[10:21:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:21:19] [Server thread/INFO]: Using default channel type
+[10:21:24] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[10:21:25] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[10:21:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:21:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:21:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:21:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:21:25] [Server thread/INFO]: Preparing level "world"
+[10:21:26] [Server thread/INFO]: Preparing start region for level 0 (Seed: 85224557602422186)
+[10:21:27] [Server thread/INFO]: Preparing spawn area: 1%
+[10:21:28] [Server thread/INFO]: Preparing spawn area: 54%
+[10:21:29] [Server thread/INFO]: Preparing spawn area: 90%
+[10:21:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: 85224557602422186)
+[10:21:30] [Server thread/INFO]: Preparing spawn area: 48%
+[10:21:31] [Server thread/INFO]: Preparing spawn area: 99%
+[10:21:31] [Server thread/INFO]: Preparing start region for level 2 (Seed: 85224557602422186)
+[10:21:32] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[10:21:32] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[10:21:32] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[10:21:32] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[10:21:32] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[10:21:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:21:32] [Server thread/INFO]: Done (7,106s)! For help, type "help" or "?"
